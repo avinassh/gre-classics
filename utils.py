@@ -22,9 +22,11 @@ def dowload_top_100():
         book_id = m.group(1)
         url = base_url.substitute(book_id=book_id)
         r = requests.get(url)
-        f = open(file_name, 'w')
-        f.write(r.text.encode('UTF-8'))
-        f.close()
+        if r.status_code == requests.codes.ok:
+            #print 'Downloaded... ', file_name
+            f = open(file_name, 'w')
+            f.write(r.text.encode('UTF-8'))
+            f.close()
 
 def get_cleaned(text_corpus):
     '''Removes all the punctuation and special characters from corpus'''
