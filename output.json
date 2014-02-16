@@ -1,0 +1,4298 @@
+[
+    {
+        "book": "A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Connecticut Yankee in King Arthur's Court by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Doll's House : a play by Henrik Ibsen", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Modest Proposal by Jonathan Swift", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Princess of Mars by Edgar Rice Burroughs", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Study in Scarlet by Arthur Conan Doyle", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Tale of Two Cities by Charles Dickens", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "A Tramp Abroad by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Adventures of Huckleberry Finn by Mark Twain", 
+        "count": 12, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "soliloquy"
+            }, 
+            {
+                "frequency": 26, 
+                "term": "log"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolution"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "rail"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "plumb"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "brazen"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "warranted"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "contrite"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "convention"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "histrionic"
+            }
+        ]
+    }, 
+    {
+        "book": "Aesop's Fables; a new translation by Aesop", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Alice's Adventures in Wonderland by Lewis Carroll", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sage"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "tremulous"
+            }
+        ]
+    }, 
+    {
+        "book": "An Inquiry into the Nature and Causes of the Wealth of Nations by Adam Smith", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Andersen's Fairy Tales by H. C.  Andersen", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Anna Karenina by graf Leo Tolstoy", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Apology by Plato", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Beowulf", 
+        "count": 33, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "implacable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "defer"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "founder"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reparation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "covert"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "formidable"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "discrepancy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "burnish"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "bard"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sanction"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "quail"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "antecedent"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "flourish"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "decorum"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "plethora"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "indolent"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "succor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "deference"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "clamor"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "simile"
+            }, 
+            {
+                "frequency": 9, 
+                "term": "champion"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "intimate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ardor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "audacious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discomfit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "overweening"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fallow"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "uncanny"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "guise"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "rebus"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolution"
+            }
+        ]
+    }, 
+    {
+        "book": "Beyond Good and Evil by Friedrich Wilhelm Nietzsche", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Candide by Voltaire", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Don Juan by Baron George Gordon Byron Byron", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Dracula by Bram Stoker", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Dubliners by James Joyce", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Emma by Jane Austen", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Encyclopedia of Needlework by The\u0301re\u0300se de Dillmont", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "English Literature by William J.  Long", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Essays of Michel de Montaigne \u2014 Complete by Michel de Montaigne", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Following the Equator: A Journey Around the World by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Great Expectations by Charles Dickens", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm", 
+        "count": 9, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "log"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "plume"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "dearth"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "rue"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "avarice"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "vexation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discern"
+            }
+        ]
+    }, 
+    {
+        "book": "Gulliver's Travels by Jonathan Swift", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Heart of Darkness by Joseph Conrad", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "How to Analyze People on Sight by Elsie Lincoln Benedict and Ralph Paine Benedict", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Jane Eyre: An Autobiography by Charlotte Bronte\u0308", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Josefine Mutzenbacher by Felix Salten", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Leaves of Grass by Walt Whitman", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Les Mise\u0301rables by Victor Hugo", 
+        "count": 277, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "essay"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "innocuous"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "fetter"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "magnanimity"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "founder"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "dissolution"
+            }, 
+            {
+                "frequency": 12, 
+                "term": "sage"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "supposition"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "obviate"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "dupe"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "pique"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "discretion"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "elegy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arabesque"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "carnal"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "idolatry"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "asylum"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "irresolute"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discern"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "subversive"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "adjunct"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "opprobrium"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "latent"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "emaciated"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "itinerant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "apex"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "assuage"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "indolent"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "strident"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "satyr"
+            }, 
+            {
+                "frequency": 29, 
+                "term": "arrest"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "insipid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "affinity"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "vacillate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fervor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "antipathy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "volatile"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "analogous"
+            }, 
+            {
+                "frequency": 9, 
+                "term": "plaintive"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "machinations"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "immutable"
+            }, 
+            {
+                "frequency": 13, 
+                "term": "imperturbable"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "intractable"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 14, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "appease"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "motley"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "ardor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "equanimity"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "conscript"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "stipulate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "strut"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "avarice"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "qualified"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "cataclysm"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "placid"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "converge"
+            }, 
+            {
+                "frequency": 22, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "syllogism"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "treatise"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "occult"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "amalgamate"
+            }, 
+            {
+                "frequency": 19, 
+                "term": "physiognomy"
+            }, 
+            {
+                "frequency": 109, 
+                "term": "profound"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "laconic"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "suffrage"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "concave"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "egoism"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "lucid"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "bucolic"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "capricious"
+            }, 
+            {
+                "frequency": 37, 
+                "term": "cloister"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "vexation"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "insensible"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "rubric"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "pallid"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "menagerie"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "plummet"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "repudiate"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "porous"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "contiguous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "beneficent"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "appellation"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "fusion"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "venerate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "intangible"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "levee"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ameliorate"
+            }, 
+            {
+                "frequency": 24, 
+                "term": "luminous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "asperity"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "digression"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "sordid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "contend"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "loquacious"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "lucre"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "refractory"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "forestall"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "partisan"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "imprecation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "etymology"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discordant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sinuous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lethargic"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "frugality"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "bolster"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sensuous"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "inert"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "sentient"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "intimate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "tacit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "virtuoso"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "paucity"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "specious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "libertine"
+            }, 
+            {
+                "frequency": 11, 
+                "term": "ingenuous"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "lustrous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "abate"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "inherent"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "prattle"
+            }, 
+            {
+                "frequency": 19, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "spendthrift"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fiat"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "usury"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "connoisseur"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "inundate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "fissure"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "piety"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "tractable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "precursor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "captious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "estimable"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "phlegmatic"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "hieroglyphics"
+            }, 
+            {
+                "frequency": 11, 
+                "term": "prodigal"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "quibble"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "rebus"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "vogue"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "facilitate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "plume"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "whimsical"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "patois"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "incarnate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "maelstrom"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "chivalry"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "officious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "miscreant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "erudite"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "elixir"
+            }, 
+            {
+                "frequency": 11, 
+                "term": "anarchy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "felicitous"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "appropriate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "morose"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "assiduous"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "sanction"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "liberal"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "undulating"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "disinterested"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "fidelity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "salutary"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "log"
+            }, 
+            {
+                "frequency": 13, 
+                "term": "probity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "callous"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "inertia"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "complaisant"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "modicum"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "futile"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "calumny"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "rococo"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "diatribe"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "torpor"
+            }, 
+            {
+                "frequency": 10, 
+                "term": "reparation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "servile"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "efficacy"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "argot"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "dismiss"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "defunct"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "proscribe"
+            }, 
+            {
+                "frequency": 47, 
+                "term": "flag"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "diffuse"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "abject"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "extant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "adamant"
+            }, 
+            {
+                "frequency": 12, 
+                "term": "clamor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "oscillate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "neologism"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "chicanery"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "disingenuous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "vendetta"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "pedant"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "viscous"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "limpid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "churlish"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "ruse"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "perfidious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fallow"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "impute"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "uncanny"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "itinerary"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "tortuous"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "guise"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fauna"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "lassitude"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "ascetic"
+            }, 
+            {
+                "frequency": 13, 
+                "term": "implacable"
+            }, 
+            {
+                "frequency": 30, 
+                "term": "celestial"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "concomitant"
+            }, 
+            {
+                "frequency": 17, 
+                "term": "visage"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sedition"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "onomatopoeia"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "covert"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "apropos"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "canon"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "soliloquy"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "confound"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "cant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "metamorphosis"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "talisman"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "tremulous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "levity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sensual"
+            }, 
+            {
+                "frequency": 9, 
+                "term": "terrestrial"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "onerous"
+            }, 
+            {
+                "frequency": 15, 
+                "term": "impassive"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exigency"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "harangue"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "savor"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "anachronism"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ephemeral"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "debauchery"
+            }, 
+            {
+                "frequency": 12, 
+                "term": "quagmire"
+            }, 
+            {
+                "frequency": 21, 
+                "term": "redoubtable"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "default"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "discredit"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "cardinal"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "indigence"
+            }, 
+            {
+                "frequency": 12, 
+                "term": "mendicant"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "deference"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "tout"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "document"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "irascible"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "precipitate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "inured"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "pedantic"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "audacious"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "abdicate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "inadvertently"
+            }, 
+            {
+                "frequency": 84, 
+                "term": "singular"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "meteorological"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "brazen"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "fetid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "disjointed"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "trepidation"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "vertigo"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "convex"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "equitable"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "flourish"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "effrontery"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "egotistical"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "ambiguous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "execrable"
+            }, 
+            {
+                "frequency": 16, 
+                "term": "austere"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sidereal"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "peremptory"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "apathy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arduous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "panegyric"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "coquette"
+            }, 
+            {
+                "frequency": 85, 
+                "term": "formidable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "florid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "contumacious"
+            }, 
+            {
+                "frequency": 15, 
+                "term": "succor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ramification"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "conjugal"
+            }, 
+            {
+                "frequency": 20, 
+                "term": "resolution"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "caste"
+            }
+        ]
+    }, 
+    {
+        "book": "Leviathan by Thomas Hobbes", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Life on the Mississippi by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Metamorphosis by Franz Kafka", 
+        "count": 11, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "austere"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arduous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "copious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "appropriate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "caustic"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lethargic"
+            }
+        ]
+    }, 
+    {
+        "book": "Middlemarch by George Eliot", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Moby Dick; Or, The Whale by Herman Melville", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Oliver Twist by Charles Dickens", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Peter Pan by J. M.  Barrie", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Prestuplenie i nakazanie. English by Fyodor Dostoyevsky", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Pride and Prejudice by Jane Austen", 
+        "count": 68, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "whimsical"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "defer"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "appease"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "officious"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "purport"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "formidable"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "supposition"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "dupe"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "alacrity"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "discretion"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sanction"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "liberal"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "obsequious"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "discern"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "disinterested"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "diffidence"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ostentatious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "asperity"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "propriety"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "probity"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "decorum"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "repine"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "indolent"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "diffuse"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "complaisant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "default"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "discredit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "insipid"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "affinity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "refute"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "deference"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "conjugal"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "inured"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "pedantic"
+            }, 
+            {
+                "frequency": 19, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "precipitate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "efficacy"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "singular"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discerning"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "rail"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "tacit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "assiduous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "avarice"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "qualified"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "dissemble"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "congenial"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "implicit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "trepidation"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "tractable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "laconic"
+            }, 
+            {
+                "frequency": 19, 
+                "term": "resolution"
+            }, 
+            {
+                "frequency": 12, 
+                "term": "intimate"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "estimable"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "panegyric"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "conciliatory"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "forbearance"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "approbation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "transient"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "impute"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "alleviate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "enhance"
+            }, 
+            {
+                "frequency": 10, 
+                "term": "vexation"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "insensible"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "vogue"
+            }
+        ]
+    }, 
+    {
+        "book": "Roughing It by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Second Treatise of Government by John Locke", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Sense and Sensibility by Jane Austen", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Siddhartha by Hermann Hesse", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Steam, Its Generation and Use by Babcock & Wilcox Company", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Sunzi bing fa. English by active 6th century B.C. Sunzi", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Adventures of Sherlock Holmes by Arthur Conan Doyle", 
+        "count": 55, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "implacable"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "whimsical"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "incarnate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "morose"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "founder"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "purport"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "pungent"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "unfeigned"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "inconsequential"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discrepancy"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "introspective"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sardonic"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "confound"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "formidable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sporadic"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "fidelity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "asylum"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "vacuous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "abjure"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "arrest"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "staccato"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "discretion"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "resolution"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "deference"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "congenial"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "sodden"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reparation"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "compunction"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "supposition"
+            }, 
+            {
+                "frequency": 32, 
+                "term": "singular"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lucid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "brazen"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "flag"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "embellish"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "implicit"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "geniality"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "profound"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "precursor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "piquant"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "intimate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arduous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "appropriate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ruse"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "denouement"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "propriety"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "tout"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "desultory"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "facilitate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lassitude"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lustrous"
+            }
+        ]
+    }, 
+    {
+        "book": "The Adventures of Tom Sawyer by Mark Twain", 
+        "count": 44, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "menagerie"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "apathy"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "vindictive"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "miscreant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "precarious"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "alacrity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "intangible"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "formidable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discordant"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "stolid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "contend"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reverent"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "ostentatious"
+            }, 
+            {
+                "frequency": 8, 
+                "term": "log"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "pallid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "sinuous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arrest"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "insipid"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "clamor"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "wary"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "rail"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lucid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "audacious"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "facetious"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "disjointed"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "flag"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "prattle"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "flourish"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "pathos"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "perennial"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "geniality"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "guile"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "profound"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "resolution"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "limpid"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "inveterate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "forbearance"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "alloy"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "enhance"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "vexation"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "vogue"
+            }
+        ]
+    }, 
+    {
+        "book": "The Awakening, and Selected Short Stories by Kate Chopin", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Brothers Karamazov by Fyodor Dostoyevsky", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Call of the Wild by Jack London", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Complete Works of William Shakespeare by William Shakespeare", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Count of Monte Cristo by Alexandre Dumas", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Divine Comedy by Dante, Illustrated by Dante Alighieri", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Divine Comedy by Dante, Illustrated, Hell, Complete by Dante Alighieri", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Gentlemen's Book of Etiquette and Manual of Politeness by Cecil B. Hartley", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Hound of the Baskervilles by Arthur Conan Doyle", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Iliad by Homer", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde", 
+        "count": 11, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "misanthrope"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "equanimity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "presumptuous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "insuperable"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arduous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "precept"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "problematic"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "machinations"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "effrontery"
+            }
+        ]
+    }, 
+    {
+        "book": "The Innocents Abroad by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Jungle Book by Rudyard Kipling", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Jungle by Upton Sinclair", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Kama Sutra of Vatsyayana by Vatsyayana", 
+        "count": 41, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "appease"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "covert"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "convex"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "sage"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "lascivious"
+            }, 
+            {
+                "frequency": 7, 
+                "term": "appropriate"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "elegy"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "quail"
+            }, 
+            {
+                "frequency": 6, 
+                "term": "carnal"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "allay"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "levity"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "sensual"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "disinterested"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "loquacious"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "goad"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "discredit"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "affinity"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "deference"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "analogous"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "covetous"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "eulogy"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "intimate"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "dismiss"
+            }, 
+            {
+                "frequency": 10, 
+                "term": "avarice"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "extant"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "reproach"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "deride"
+            }, 
+            {
+                "frequency": 10, 
+                "term": "liberal"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "occult"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "treatise"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "profound"
+            }, 
+            {
+                "frequency": 5, 
+                "term": "conciliatory"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "supine"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "propriety"
+            }, 
+            {
+                "frequency": 2, 
+                "term": "tout"
+            }, 
+            {
+                "frequency": 18, 
+                "term": "caste"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "disparage"
+            }, 
+            {
+                "frequency": 4, 
+                "term": "ascetic"
+            }
+        ]
+    }, 
+    {
+        "book": "The King James Version of the Bible", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Legend of Sleepy Hollow by Washington Irving", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Life and Adventures of Robinson Crusoe by Daniel Defoe", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Memoirs of Sherlock Holmes by Arthur Conan Doyle", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Mysterious Affair at Styles by Agatha Christie", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Odyssey by Homer", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Picture of Dorian Gray by Oscar Wilde", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Prince and the Pauper by Mark Twain", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Prince by Niccolo\u0300 Machiavelli", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Problems of Philosophy by Bertrand Russell", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Republic by Plato", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Return of Sherlock Holmes by Arthur Conan Doyle", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Romance of Lust by Anonymous", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Secret Adversary by Agatha Christie", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Souls of Black Folk by W. E. B.  Du Bois", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Time Machine by H. G.  Wells", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Wonderful Wizard of Oz by L. Frank  Baum", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Works of Edgar Allan Poe \u2014 Volume 1 by Edgar Allan Poe", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Works of Edgar Allan Poe \u2014 Volume 2 by Edgar Allan Poe", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "The Yellow Wallpaper by Charlotte Perkins Gilman", 
+        "count": 7, 
+        "terms": [
+            {
+                "frequency": 1, 
+                "term": "frieze"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "affected"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "florid"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "undulating"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "arabesque"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "congenial"
+            }, 
+            {
+                "frequency": 3, 
+                "term": "derivative"
+            }
+        ]
+    }, 
+    {
+        "book": "Three Men in a Boat by Jerome K.  Jerome", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Through the Looking-Glass by Lewis Carroll", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Tractatus Logico-Philosophicus by Ludwig Wittgenstein", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Treasure Island by Robert Louis Stevenson", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Ulysses by James Joyce", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "War and Peace by graf Leo Tolstoy", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }, 
+    {
+        "book": "Wuthering Heights by Emily Bronte\u0308", 
+        "count": 4, 
+        "terms": [
+            {
+                "frequency": 2, 
+                "term": "query"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "resolve"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "exact"
+            }, 
+            {
+                "frequency": 1, 
+                "term": "document"
+            }
+        ]
+    }
+]
