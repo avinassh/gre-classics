@@ -1,5 +1,11 @@
 An attempt to find out frequency of Top 800 GRE words in Classic books.
 
+#Requirements:
+- Check `requirements.txt`. Install it using `pip`:
+
+		pip install -r requirements.txt
+- NTLK WordNet corpus
+
 #Log:
 1. **16/Feb/2014**:
     - High frequency words and corpus, were not lemmatized
