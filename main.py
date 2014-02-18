@@ -2,15 +2,20 @@ import os
 import json
 from collections import Counter
 
+import nltk
+from nltk.stem import WordNetLemmatizer
+
 from utils import get_high_frequency_words
 from utils import get_cleaned
 
-words = list(get_high_frequency_words())
+wnl = WordNetLemmatizer()
+words = map(wnl.lemmatize, list(get_high_frequency_words()))
 words_set = set(words)
 
 def get_freq_record(book):
     record = {}
     corpus = get_cleaned(open('classics/'+book).read()).split()
+    corpus = map(wnl.lemmatize, corpus)
     counter = Counter(corpus)
     corpus_set = set(corpus)
     record['book'] = book
@@ -19,6 +24,10 @@ def get_freq_record(book):
     return record
 
 result = [get_freq_record(book) for book in os.listdir('classics/')]
-f = open('output.json', 'w')
-f.write(json.dumps(result, indent=4, sort_keys=True))
+result = sorted(result, key=lambda x: x['count'], reverse=True)
+f = open('output-wnl.json', 'w')
+f.write(json.dumps(result, indent=4))
 f.close()
+
+# d = json.loads(open('output.json').read())
+# sorted(d, key=lambda x: x['count'], reverse=True)
