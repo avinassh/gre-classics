@@ -11,11 +11,11 @@ def dowload_top_100():
     '''This script will download Top 100 books of last 30 days from Project 
     Gutenberg and saves them with appropriate file name'''
     base_url = 'http://www.gutenberg.myebook.bg/'
-    r = requests.get('http://www.gutenberg.org/browse/scores/top')
-    soup = BeautifulSoup(r.text)
-    h2 = soup.find(id='books-last30')
-    ol = h2.next_sibling.next_sibling
-    for a_tag in ol.find_all('a'):
+    response = requests.get('http://www.gutenberg.org/browse/scores/top')
+    soup = BeautifulSoup(response.text)
+    h_tag = soup.find(id='books-last30')
+    ol_tag = h_tag.next_sibling.next_sibling
+    for a_tag in ol_tag.find_all('a'):
         m = re.match(r'(.*)(\(\d+\))', a_tag.text)
         book_name = m.group(1).strip()
         m = re.match(r'/ebooks/(\d+)', a_tag.get('href'))
