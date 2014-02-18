@@ -25,9 +25,12 @@ def get_freq_record(book):
 
 result = [get_freq_record(book) for book in os.listdir('classics/')]
 result = sorted(result, key=lambda x: x['count'], reverse=True)
-f = open('output-wnl.json', 'w')
-f.write(json.dumps(result, indent=4))
-f.close()
+with open('output-wnl.json', 'w') as f:
+    f.write(json.dumps(result, indent=4))
+
+words_freq =[{'book': o['book'], 'count': o['count']} for o in result]
+with open('wordsfrequency.json', 'w') as f:
+    f.write(json.dumps(words_freq, indent=4))
 
 # d = json.loads(open('output.json').read())
 # sorted(d, key=lambda x: x['count'], reverse=True)

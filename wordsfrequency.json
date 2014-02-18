@@ -1,0 +1,398 @@
+[
+    {
+        "count": 320, 
+        "book": "Ulysses by James Joyce"
+    }, 
+    {
+        "count": 296, 
+        "book": "Les Mise\u0301rables by Victor Hugo"
+    }, 
+    {
+        "count": 293, 
+        "book": "Essays of Michel de Montaigne \u2014 Complete by Michel de Montaigne"
+    }, 
+    {
+        "count": 246, 
+        "book": "The Complete Works of William Shakespeare by William Shakespeare"
+    }, 
+    {
+        "count": 237, 
+        "book": "Middlemarch by George Eliot"
+    }, 
+    {
+        "count": 227, 
+        "book": "War and Peace by graf Leo Tolstoy"
+    }, 
+    {
+        "count": 217, 
+        "book": "Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant"
+    }, 
+    {
+        "count": 213, 
+        "book": "The Count of Monte Cristo by Alexandre Dumas"
+    }, 
+    {
+        "count": 196, 
+        "book": "Jane Eyre: An Autobiography by Charlotte Bronte\u0308"
+    }, 
+    {
+        "count": 188, 
+        "book": "Don Juan by Baron George Gordon Byron Byron"
+    }, 
+    {
+        "count": 175, 
+        "book": "Moby Dick; Or, The Whale by Herman Melville"
+    }, 
+    {
+        "count": 170, 
+        "book": "The Innocents Abroad by Mark Twain"
+    }, 
+    {
+        "count": 165, 
+        "book": "The Republic by Plato"
+    }, 
+    {
+        "count": 164, 
+        "book": "Leaves of Grass by Walt Whitman"
+    }, 
+    {
+        "count": 153, 
+        "book": "The Iliad by Homer"
+    }, 
+    {
+        "count": 146, 
+        "book": "The Brothers Karamazov by Fyodor Dostoyevsky"
+    }, 
+    {
+        "count": 145, 
+        "book": "The Works of Edgar Allan Poe \u2014 Volume 2 by Edgar Allan Poe"
+    }, 
+    {
+        "count": 143, 
+        "book": "Following the Equator: A Journey Around the World by Mark Twain"
+    }, 
+    {
+        "count": 139, 
+        "book": "English Literature by William J.  Long"
+    }, 
+    {
+        "count": 137, 
+        "book": "Roughing It by Mark Twain"
+    }, 
+    {
+        "count": 129, 
+        "book": "Beyond Good and Evil by Friedrich Wilhelm Nietzsche"
+    }, 
+    {
+        "count": 129, 
+        "book": "The Divine Comedy by Dante, Illustrated by Dante Alighieri"
+    }, 
+    {
+        "count": 124, 
+        "book": "Anna Karenina by graf Leo Tolstoy"
+    }, 
+    {
+        "count": 124, 
+        "book": "Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau"
+    }, 
+    {
+        "count": 123, 
+        "book": "The Works of Edgar Allan Poe, Volume 1 by Edgar Allan Poe"
+    }, 
+    {
+        "count": 120, 
+        "book": "Oliver Twist by Charles Dickens"
+    }, 
+    {
+        "count": 119, 
+        "book": "An Inquiry into the Nature and Causes of the Wealth of Nations by Adam Smith"
+    }, 
+    {
+        "count": 117, 
+        "book": "A Tale of Two Cities by Charles Dickens"
+    }, 
+    {
+        "count": 115, 
+        "book": "Great Expectations by Charles Dickens"
+    }, 
+    {
+        "count": 106, 
+        "book": "Life on the Mississippi by Mark Twain"
+    }, 
+    {
+        "count": 102, 
+        "book": "A Tramp Abroad by Mark Twain"
+    }, 
+    {
+        "count": 101, 
+        "book": "Wuthering Heights by Emily Bronte\u0308"
+    }, 
+    {
+        "count": 99, 
+        "book": "The Gentlemen's Book of Etiquette and Manual of Politeness by Cecil B. Hartley"
+    }, 
+    {
+        "count": 97, 
+        "book": "Dracula by Bram Stoker"
+    }, 
+    {
+        "count": 94, 
+        "book": "Gulliver's Travels by Jonathan Swift"
+    }, 
+    {
+        "count": 93, 
+        "book": "A Connecticut Yankee in King Arthur's Court by Mark Twain"
+    }, 
+    {
+        "count": 90, 
+        "book": "The Souls of Black Folk by W. E. B.  Du Bois"
+    }, 
+    {
+        "count": 86, 
+        "book": "The King James Version of the Bible"
+    }, 
+    {
+        "count": 84, 
+        "book": "Emma by Jane Austen"
+    }, 
+    {
+        "count": 84, 
+        "book": "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley"
+    }, 
+    {
+        "count": 84, 
+        "book": "The Romance of Lust by Anonymous"
+    }, 
+    {
+        "count": 82, 
+        "book": "Prestuplenie i nakazanie. English by Fyodor Dostoyevsky"
+    }, 
+    {
+        "count": 80, 
+        "book": "The Jungle by Upton Sinclair"
+    }, 
+    {
+        "count": 79, 
+        "book": "The Return of Sherlock Holmes by Arthur Conan Doyle"
+    }, 
+    {
+        "count": 77, 
+        "book": "Leviathan by Thomas Hobbes"
+    }, 
+    {
+        "count": 71, 
+        "book": "Pride and Prejudice by Jane Austen"
+    }, 
+    {
+        "count": 68, 
+        "book": "The Divine Comedy by Dante, Illustrated, Hell, Complete by Dante Alighieri"
+    }, 
+    {
+        "count": 68, 
+        "book": "The Prince and the Pauper by Mark Twain"
+    }, 
+    {
+        "count": 67, 
+        "book": "A Princess of Mars by Edgar Rice Burroughs"
+    }, 
+    {
+        "count": 67, 
+        "book": "The Picture of Dorian Gray by Oscar Wilde"
+    }, 
+    {
+        "count": 66, 
+        "book": "Sense and Sensibility by Jane Austen"
+    }, 
+    {
+        "count": 64, 
+        "book": "The Awakening, and Selected Short Stories by Kate Chopin"
+    }, 
+    {
+        "count": 62, 
+        "book": "Dubliners by James Joyce"
+    }, 
+    {
+        "count": 62, 
+        "book": "The Adventures of Sherlock Holmes by Arthur Conan Doyle"
+    }, 
+    {
+        "count": 62, 
+        "book": "The Memoirs of Sherlock Holmes by Arthur Conan Doyle"
+    }, 
+    {
+        "count": 59, 
+        "book": "The Odyssey by Homer"
+    }, 
+    {
+        "count": 57, 
+        "book": "The Secret Adversary by Agatha Christie"
+    }, 
+    {
+        "count": 55, 
+        "book": "The Prince by Niccolo\u0300 Machiavelli"
+    }, 
+    {
+        "count": 54, 
+        "book": "The Hound of the Baskervilles by Arthur Conan Doyle"
+    }, 
+    {
+        "count": 52, 
+        "book": "How to Analyze People on Sight by Elsie Lincoln Benedict and Ralph Paine Benedict"
+    }, 
+    {
+        "count": 52, 
+        "book": "Second Treatise of Government by John Locke"
+    }, 
+    {
+        "count": 51, 
+        "book": "The Mysterious Affair at Styles by Agatha Christie"
+    }, 
+    {
+        "count": 49, 
+        "book": "Steam, Its Generation and Use by Babcock & Wilcox Company"
+    }, 
+    {
+        "count": 49, 
+        "book": "The King in Yellow by Robert W.  Chambers"
+    }, 
+    {
+        "count": 48, 
+        "book": "Heart of Darkness by Joseph Conrad"
+    }, 
+    {
+        "count": 48, 
+        "book": "The Adventures of Tom Sawyer by Mark Twain"
+    }, 
+    {
+        "count": 48, 
+        "book": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano"
+    }, 
+    {
+        "count": 46, 
+        "book": "Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass"
+    }, 
+    {
+        "count": 44, 
+        "book": "The Kama Sutra of Vatsyayana by Vatsyayana"
+    }, 
+    {
+        "count": 42, 
+        "book": "A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens"
+    }, 
+    {
+        "count": 42, 
+        "book": "Candide by Voltaire"
+    }, 
+    {
+        "count": 41, 
+        "book": "A Study in Scarlet by Arthur Conan Doyle"
+    }, 
+    {
+        "count": 41, 
+        "book": "The Life and Adventures of Robinson Crusoe by Daniel Defoe"
+    }, 
+    {
+        "count": 39, 
+        "book": "The Call of the Wild by Jack London"
+    }, 
+    {
+        "count": 38, 
+        "book": "The Time Machine by H. G.  Wells"
+    }, 
+    {
+        "count": 37, 
+        "book": "The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson"
+    }, 
+    {
+        "count": 36, 
+        "book": "Beowulf"
+    }, 
+    {
+        "count": 35, 
+        "book": "The Legend of Sleepy Hollow by Washington Irving"
+    }, 
+    {
+        "count": 30, 
+        "book": "Andersen's Fairy Tales by H. C.  Andersen"
+    }, 
+    {
+        "count": 27, 
+        "book": "Peter Pan by J. M.  Barrie"
+    }, 
+    {
+        "count": 27, 
+        "book": "The Problems of Philosophy by Bertrand Russell"
+    }, 
+    {
+        "count": 27, 
+        "book": "Three Men in a Boat by Jerome K.  Jerome"
+    }, 
+    {
+        "count": 27, 
+        "book": "Treasure Island by Robert Louis Stevenson"
+    }, 
+    {
+        "count": 23, 
+        "book": "Sunzi bing fa. English by active 6th century B.C. Sunzi"
+    }, 
+    {
+        "count": 21, 
+        "book": "Apology by Plato"
+    }, 
+    {
+        "count": 20, 
+        "book": "Siddhartha by Hermann Hesse"
+    }, 
+    {
+        "count": 17, 
+        "book": "Encyclopedia of Needlework by The\u0301re\u0300se de Dillmont"
+    }, 
+    {
+        "count": 15, 
+        "book": "A Doll's House : a play by Henrik Ibsen"
+    }, 
+    {
+        "count": 13, 
+        "book": "Adventures of Huckleberry Finn by Mark Twain"
+    }, 
+    {
+        "count": 12, 
+        "book": "The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde"
+    }, 
+    {
+        "count": 11, 
+        "book": "Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm"
+    }, 
+    {
+        "count": 11, 
+        "book": "Metamorphosis by Franz Kafka"
+    }, 
+    {
+        "count": 10, 
+        "book": "The Jungle Book by Rudyard Kipling"
+    }, 
+    {
+        "count": 7, 
+        "book": "The Yellow Wallpaper by Charlotte Perkins Gilman"
+    }, 
+    {
+        "count": 6, 
+        "book": "A Modest Proposal by Jonathan Swift"
+    }, 
+    {
+        "count": 5, 
+        "book": "Through the Looking-Glass by Lewis Carroll"
+    }, 
+    {
+        "count": 4, 
+        "book": "Alice's Adventures in Wonderland by Lewis Carroll"
+    }, 
+    {
+        "count": 4, 
+        "book": "The Wonderful Wizard of Oz by L. Frank  Baum"
+    }, 
+    {
+        "count": 3, 
+        "book": "Josefine Mutzenbacher by Felix Salten"
+    }
+]
