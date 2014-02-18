@@ -30,7 +30,7 @@ def dowload_top_100():
         else:
             print 'Failed for ', book_id
 
-def get_cleaned(text_corpus):
+def cleanse(text_corpus):
     '''Removes all the punctuation and special characters from corpus'''
     return re.sub(r'[^\w-]', ' ', text_corpus)
 
